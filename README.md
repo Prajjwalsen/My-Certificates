@@ -6,7 +6,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
 
 ## 🎓 AI & Machine Learning
 
-### **Generative AI Course – Udemy**
+## 🚀 **Generative AI Course – Udemy**
 - **Base:** Generative AI, prompt engineering, multimodal models, hands-on AI tools
 - **What I Learned:**
   - Fundamentals of generative models and prompt engineering
@@ -19,7 +19,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   Diving into generative AI was both exciting and challenging. I built my first text-to-image generator and saw the magic of AI creativity firsthand. This course sparked my passion for AI innovation.
   
 
-### **30 Days AI Masterclass – NoviTech R&D**
+## 🤖 **30 Days AI Masterclass – NoviTech R&D**
 - **Base:** Machine Learning, Deep Learning basics, model building, hands-on tasks
 - **What I Learned:**
   - Core ML and DL concepts
@@ -32,7 +32,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   Completing daily tasks for a month taught me discipline and persistence. Each project brought new insights, making the learning process rewarding and memorable.
   
 
-### **Cognifyz Machine Learning Internship Certificate**
+## 🏆 **Cognifyz Machine Learning Internship Certificate**
 - **Base:** Real ML tasks, datasets, model training, evaluation, internship experience
 - **What I Learned:**
   - End-to-end ML workflow
@@ -49,7 +49,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
 
 ## 🐍 Python & Programming
 
-### **Python Complete Course – Udemy**
+## 🐍 **Python Complete Course – Udemy**
 - **Base:** Python fundamentals to advanced, OOP, file handling, automation
 - **What I Learned:**
   - Core Python syntax and advanced features
@@ -62,7 +62,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   This course turned Python from a mystery into my favorite tool. I automated daily tasks and built my first real-world apps, fueling my enthusiasm for programming.
   
 
-### **Java Assessment Certificate**
+## ☕ **Java Assessment Certificate**
 - **Base:** Java basics, syntax, logic building, object-oriented programming fundamentals
 - **What I Learned:**
   - Java programming essentials
@@ -79,7 +79,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
 
 ## 📊 Data & Analytics
 
-### **21 Days SQL Challenge – Indian Data Club, DPD Zero**
+## 🗃️ **21 Days SQL Challenge – Indian Data Club, DPD Zero**
 - **Base:** SQL queries, joins, aggregate functions, subqueries, daily practical tasks
 - **What I Learned:**
   - Writing complex SQL queries
@@ -92,7 +92,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   The daily SQL challenges were intense but rewarding. Each solved query boosted my confidence and prepared me for data-driven roles.
 
 
-### **Data Analytics Certification – SheKunj**
+## 📊 **Data Analytics Certification – SheKunj**
 - **Base:** Data cleaning, Excel/BI basics, visualization, analysis process
 - **What I Learned:**
   - Data preprocessing and cleaning
@@ -109,7 +109,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
 
 ## 🛡 Cybersecurity
 
-### **Introduction to Cybersecurity – SheKunj**
+## 🛡️ **Introduction to Cybersecurity – SheKunj**
 - **Base:** Cybersecurity fundamentals, threats, network safety, digital security practices
 - **What I Learned:**
   - Basics of cybersecurity and threat mitigation
@@ -126,7 +126,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
 
 ## 🔌 IoT & Hardware
 
-### **Unwired IoT Exhibition – Participation Certificate**
+## 🔌 **Unwired IoT Exhibition – Participation Certificate**
 - **Base:** IoT fundamentals, sensors, embedded systems, hardware exposure
 - **What I Learned:**
   - IoT architecture and sensor integration
@@ -143,7 +143,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
 
 ## 🚀 Workshops & Events
 
-### **ChatGPT & AI Tools Workshop – be10x**
+## 💡 **ChatGPT & AI Tools Workshop – be10x**
 - **Base:** Prompting, AI content automation, real-world productivity using AI tools
 - **What I Learned:**
   - Effective use of ChatGPT and AI tools
@@ -160,8 +160,18 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
 
 ## 💼 Internships
 
-### **Cognifyz Machine Learning Internship Certificate**
-- *(See above in AI & Machine Learning)*
+## 🏆 **Cognifyz Machine Learning Internship Certificate**
+- **Base:** Real ML tasks, datasets, model training, evaluation, internship experience
+- **What I Learned:**
+  - End-to-end ML workflow
+  - Working with real datasets and business problems
+  - Model evaluation and reporting
+- **How This Helped Me:**
+  - Provided hands-on industry experience
+  - Enhanced my teamwork and communication skills
+- **Personal Story:**
+  My internship at Cognifyz was a milestone—I contributed to live projects, collaborated with mentors, and saw the impact of ML in action. It was a transformative learning curve.
+- [View Certificate](Internship Completion Certificate.pdf)
 
 ---
 
