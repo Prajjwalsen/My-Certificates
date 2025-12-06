@@ -17,7 +17,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   - Improved my ability to create and optimize prompts for diverse AI models
 - **Personal Story:**
   Diving into generative AI was both exciting and challenging. I built my first text-to-image generator and saw the magic of AI creativity firsthand. This course sparked my passion for AI innovation.
-- [View Certificate](Certificates/generative-ai-udemy.pdf)
+- [View Certificate](Udemy Generative AI.pdf)
 
 ### **30 Days AI Masterclass – NoviTech R&D**
 - **Base:** Machine Learning, Deep Learning basics, model building, hands-on tasks
@@ -30,7 +30,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   - Gave me confidence to tackle real-world AI challenges
 - **Personal Story:**
   Completing daily tasks for a month taught me discipline and persistence. Each project brought new insights, making the learning process rewarding and memorable.
-- [View Certificate](Certificates/30days-ai-novitech.pdf)
+- [View Certificate](30 Days Artificial Intelligence Masterclass.pdf)
 
 ### **Cognifyz Machine Learning Internship Certificate**
 - **Base:** Real ML tasks, datasets, model training, evaluation, internship experience
@@ -43,7 +43,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   - Enhanced my teamwork and communication skills
 - **Personal Story:**
   My internship at Cognifyz was a milestone—I contributed to live projects, collaborated with mentors, and saw the impact of ML in action. It was a transformative learning curve.
-- [View Certificate](Certificates/cognifyz-ml-internship.pdf)
+- [View Certificate](Internship Completion Certificate.pdf)
 
 ---
 
@@ -60,7 +60,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   - Built a strong foundation for future coding projects
 - **Personal Story:**
   This course turned Python from a mystery into my favorite tool. I automated daily tasks and built my first real-world apps, fueling my enthusiasm for programming.
-- [View Certificate](Certificates/python-complete-udemy.pdf)
+- [View Certificate](Udemy Python course.pdf)
 
 ### **Java Assessment Certificate**
 - **Base:** Java basics, syntax, logic building, object-oriented programming fundamentals
@@ -73,7 +73,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   - Enabled me to approach software problems with clarity
 - **Personal Story:**
   Tackling Java assessments was a brain workout! It sharpened my coding logic and gave me confidence to explore more complex programming languages.
-- [View Certificate](Certificates/java-assessment.pdf)
+- [View Certificate](Java_Certificate.pdf)
 
 ---
 
@@ -90,7 +90,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   - Made me comfortable with relational databases
 - **Personal Story:**
   The daily SQL challenges were intense but rewarding. Each solved query boosted my confidence and prepared me for data-driven roles.
-- [View Certificate](Certificates/21days-sql-dpdzero.pdf)
+- [View Certificate](21 Days SQL Challenge.png)
 
 ### **Data Analytics Certification – SheKunj**
 - **Base:** Data cleaning, Excel/BI basics, visualization, analysis process
@@ -103,7 +103,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   - Enhanced my ability to tell stories with data
 - **Personal Story:**
   Turning raw data into meaningful insights was an eye-opener. This course showed me the power of analytics in decision-making.
-- [View Certificate](Certificates/data-analytics-shekunj.pdf)
+- [View Certificate](Data analytics.pdf)
 
 ---
 
@@ -120,7 +120,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   - Provided a foundation for advanced security learning
 - **Personal Story:**
   Learning about cyber threats was eye-opening. Now, I apply best practices to keep my data and projects secure.
-- [View Certificate](Certificates/introduction-cybersecurity-shekunj.pdf)
+- [View Certificate](Cyber security.pdf)
 
 ---
 
@@ -137,7 +137,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   - Gave me practical exposure to connected devices
 - **Personal Story:**
   Participating in the exhibition let me tinker with sensors and devices. It was a hands-on adventure that broadened my tech horizons.
-- [View Certificate](Certificates/unwired-iot-exhibition.pdf)
+- [View Certificate](Unwired IOT.pdf)
 
 ---
 
@@ -154,7 +154,7 @@ Welcome to my professional Certificates Portfolio! This repository showcases my 
   - Opened new possibilities for creative problem-solving
 - **Personal Story:**
   This workshop was a game-changer—I automated content creation and discovered how AI can simplify everyday tasks.
-- [View Certificate](Certificates/chatgpt-ai-tools-be10x.pdf)
+- [View Certificate](Chat GPT and AI tool.pdf)
 
 ---
 
